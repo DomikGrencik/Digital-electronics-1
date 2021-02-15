@@ -1,6 +1,6 @@
 # Digital-electronics-1
 ## **Labs/01-gates**
-### *Dominik Grenčík*
+### *Dominik Grenčík, 220815*
 ------
 ## 1. Link na GitHub repozitár
 
@@ -39,7 +39,7 @@ end architecture dataflow;
 
 ------
 
-## 3. Verifikácia distributývnych pravidiel
+## 3. Verifikácia distributívnych pravidiel
 
 ![distributivelaws](Images/distributivelaws.png)
 
