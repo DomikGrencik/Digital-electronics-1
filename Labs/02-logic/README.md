@@ -29,4 +29,21 @@
 ![equalscanSoP](Images/equalscanSoP.png)
 ![lesscanPoS](Images/lesscanPoS.png)
 
+---
+
+## 2. 2-bit comparator
+
+### **Karnaughove mapy**
+
+### Equals SoP
+![equalsSoP](Images/equalsSoPmin.jpg)
+
+### Greater SoP
+![greaterSoP](Images/greaterSoPmin.jpg)
+
+### Less PoS
+![lessPoS](Images/lessPoSmin.jpg)
+
+![greaterSoPmin_lessPoSmin](Images/greaterSoPmin_lessPoSmin.png)
+
 [EDA Playgrounds](https://www.edaplayground.com/x/PdmE)
