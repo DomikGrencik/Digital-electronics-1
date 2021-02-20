@@ -1,5 +1,5 @@
 # Digital-electronics-1
-## **Labs/01-gates**
+## **Labs/02-logic**
 ### *Dominik Grenčík, 220815*
 ### [Digital-electronics-1](https://github.com/DomikGrencik/Digital-electronics-1)
 ------
@@ -24,5 +24,9 @@
 | 13 | 1 1 | 0 1 | 1 | 0 | 0 |
 | 14 | 1 1 | 1 0 | 1 | 0 | 0 |
 | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
+
+
+![equalscanSoP](Images/equalscanSoP.png)
+![lesscanPoS](Images/lesscanPoS.png)
 
 [EDA Playgrounds](https://www.edaplayground.com/x/PdmE)
