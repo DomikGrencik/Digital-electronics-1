@@ -36,13 +36,13 @@
 ### **Karnaughove mapy**
 
 * ### Equals SoP
-![equalsSoP](Images/equalsSoPmin.jpg)
+![equalsSoP](Images/equalsSoPmin2.jpg)
 
 * ### Greater SoP
-![greaterSoP](Images/greaterSoPmin.jpg)
+![greaterSoP](Images/greaterSoPmin2.jpg)
 
 * ### Less PoS
-![lessPoS](Images/lessPoSmin.jpg)
+![lessPoS](Images/lessPoSmin2.jpg)
 
 ![greaterSoPmin_lessPoSmin](Images/greaterSoPmin_lessPoSmin.png)
 
@@ -55,17 +55,6 @@
 * ### **Listing of VHDL architecture from design file (design.vhd)**
 
 ```vhdl
-------------------------------------------------------------------------
---
--- Example of 4-bit binary comparator using the when/else assignment.
--- EDA Playground
---
--- Copyright (c) 2020-2021 Tomas Fryza
--- Dept. of Radio Electronics, Brno University of Technology, Czechia
--- This work is licensed under the terms of the MIT license.
---
-------------------------------------------------------------------------
-
 library ieee;
 use ieee.std_logic_1164.all;
 
@@ -81,7 +70,7 @@ entity comparator_4bit is
         -- COMPLETE ENTITY DECLARATION
 		B_greater_A_o    : out std_logic;
 		B_equals_A_o     : out std_logic;
-        B_less_A_o    	 : out std_logic       -- B is less than A
+        B_less_A_o    	 : out std_logic       
     );
 end entity comparator_4bit;
 
@@ -94,27 +83,12 @@ begin
 	B_equals_A_o   <= '1' when (b_i = a_i) else '0';
     B_less_A_o   <= '1' when (b_i < a_i) else '0';
 
-
-    -- WRITE "GREATER" AND "EQUALS" ASSIGNMENTS HERE
-
-
 end architecture Behavioral;
 ```
 
 * ### **Listing of VHDL stimulus process from testbench file (testbench.vhd)**
 
 ```vhdl
-------------------------------------------------------------------------
---
--- Testbench for 4-bit binary comparator.
--- EDA Playground
---
--- Copyright (c) 2020-2021 Tomas Fryza
--- Dept. of Radio Electronics, Brno University of Technology, Czechia
--- This work is licensed under the terms of the MIT license.
---
-------------------------------------------------------------------------
-
 library ieee;
 use ieee.std_logic_1164.all;
 
