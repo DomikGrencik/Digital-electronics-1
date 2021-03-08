@@ -3,4 +3,6 @@
 Nov 18 2020
 09:47:47
 D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/04-segment/display/display.srcs/sim_1/new/tb_hex_7seg.vhd,1614783215,vhdl,,,,tb_hex_7seg,,,,,,,,
-D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/04-segment/display/display.srcs/sources_1/new/hex_7seg.vhd,1614781585,vhdl,D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/04-segment/display/display.srcs/sim_1/new/tb_hex_7seg.vhd,,,hex_7seg,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/04-segment/display/display.srcs/sim_1/new/tb_top.vhd,1615238646,vhdl,,,,tb_top,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/04-segment/display/display.srcs/sources_1/new/hex_7seg.vhd,1614781585,vhdl,D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/04-segment/display/display.srcs/sources_1/new/top.vhd,,,hex_7seg,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/04-segment/display/display.srcs/sources_1/new/top.vhd,1615238317,vhdl,D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/04-segment/display/display.srcs/sim_1/new/tb_top.vhd,,,top,,,,,,,,
