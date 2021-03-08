@@ -275,9 +275,9 @@ end Behavioral;
 ```vhdl
 architecture Behavioral of tb_top is
 
-    signal s_hex : std_logic_vector(4 - 1 downto 0);
+    signal s_hex : std_logic_vector (4 - 1 downto 0);
     signal s_LED : std_logic_vector (8 - 1 downto 0);
-    signal s_AN : std_logic_vector (8 - 1 downto 0);
+    signal s_AN  : std_logic_vector (8 - 1 downto 0);
 
 
 begin
