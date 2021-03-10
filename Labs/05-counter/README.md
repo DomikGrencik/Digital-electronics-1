@@ -1,5 +1,5 @@
 # Digital-electronics-1
-## **Labs/04-segment**
+## **Labs/05-counter**
 ### *Dominik Grenčík, 220815*
 ### [Digital-electronics-1](https://github.com/DomikGrencik/Digital-electronics-1)
 ------
