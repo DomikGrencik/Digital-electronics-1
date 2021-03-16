@@ -92,9 +92,9 @@ begin
         
         -- Change counter direction
         s_cnt_up <= '1';
-        wait for 380 ns;
+        wait for 230 ns;
         s_cnt_up <= '0';
-        wait for 220 ns;
+        wait for 180 ns;
 
         -- Disable counting
         s_en     <= '0';
