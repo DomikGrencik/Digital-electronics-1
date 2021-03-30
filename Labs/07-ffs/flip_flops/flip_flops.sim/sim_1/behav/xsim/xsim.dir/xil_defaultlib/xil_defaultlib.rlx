@@ -1,0 +1,14 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_ff_arst.vhd,1617116033,vhdl,,,,tb_d_ff_arst,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_ff_rst.vhd,1617114976,vhdl,,,,tb_d_ff_rst,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_latch.vhd,1617112271,vhdl,,,,tb_d_latch,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_jk_ff_rst.vhd,1617118572,vhdl,,,,tb_jk_ff_rst,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_t_ff_rst.vhd,1617118223,vhdl,,,,tb_t_ff_rst,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/d_ff_arst.vhd,1616597317,vhdl,D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_ff_arst.vhd,,,d_ff_arst,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/d_ff_rst.vhd,1617113864,vhdl,D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_ff_rst.vhd,,,d_ff_rst,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/d_latch.vhd,1616595624,vhdl,D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_d_latch.vhd,,,d_latch,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/jk_ff_rst.vhd,1616598956,vhdl,D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_jk_ff_rst.vhd,,,jk_ff_rst,,,,,,,,
+D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sources_1/new/t_ff_rst.vhd,1617117150,vhdl,D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/07-ffs/flip_flops/flip_flops.srcs/sim_1/new/tb_t_ff_rst.vhd,,,t_ff_rst,,,,,,,,
