@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon May  3 21:00:23 2021
+# Process ID: 5692
+# Current directory: D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/project/project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13728 D:\DG\VUT\4semester\DE1\Digital-electronics-1\Labs\project\project\project.xpr
+# Log file: D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/project/project/vivado.log
+# Journal file: D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/project/project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/project/project/project.xpr
+update_compile_order -fileset sources_1

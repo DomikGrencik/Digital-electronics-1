@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon May  3 21:00:23 2021
+# Process ID: 5692
+# Current directory: D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/project/project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13728 D:\DG\VUT\4semester\DE1\Digital-electronics-1\Labs\project\project\project.xpr
+# Log file: D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/project/project/vivado.log
+# Journal file: D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/project/project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/project/project/project.xpr
+INFO: [Project 1-313] Project file moved from 'D:/DG/VUT/4semester/DE1/project_3.5.2021/project' since last save.
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'D:/DG/VUT/4semester/DE1/Digital-electronics-1/Labs/project/project/project.gen/sources_1', nor could it be found using path 'D:/DG/VUT/4semester/DE1/project_3.5.2021/project/project.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/DG/VUT/Programy/Xilinx/Vivado/2020.2/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon May  3 21:01:43 2021...

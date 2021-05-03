@@ -1,0 +1,51 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon May  3 16:11:44 2021
+# Process ID: 9276
+# Current directory: D:/DG/VUT/4semester/DE1/project_3.5.2021/project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14636 D:\DG\VUT\4semester\DE1\project_3.5.2021\project\project.xpr
+# Log file: D:/DG/VUT/4semester/DE1/project_3.5.2021/project/vivado.log
+# Journal file: D:/DG/VUT/4semester/DE1/project_3.5.2021/project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/DG/VUT/4semester/DE1/project_3.5.2021/project/project.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_sensor.tcl
+current_wave_config {Untitled 1}
+add_wave {{/tb_sensor/uut_sensor/s_outputdistance}} 
+current_wave_config {Untitled 1}
+add_wave {{/tb_sensor/uut_sensor/s_state_echo}} 
+current_wave_config {Untitled 1}
+add_wave {{/tb_sensor/uut_sensor/trig_o}} 
+relaunch_sim
+relaunch_sim
+close_sim
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top tb_led_bar [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+source tb_led_bar.tcl
+current_wave_config {Untitled 2}
+add_wave {{/tb_led_bar/uut_led_bar/s_led_bar}} 
+relaunch_sim
+close_sim
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top tb_buzzer [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+source tb_buzzer.tcl
+current_wave_config {Untitled 3}
+add_wave {{/tb_buzzer/uut_buzzer/s_buzzer}} 
+relaunch_sim
+close_sim
